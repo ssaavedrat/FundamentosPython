@@ -1,6 +1,6 @@
 # Curso de Fundamentos de Python - Speedrun
 
-¡Bienvenido al repositorio del speedrun del "Curso de Fundamentos de Python"! Este conjunto de archivos representa un rápido recorrido por los conceptos fundamentales de Python, abarcando desde variables y tipos de datos hasta estructuras de control y manipulación de datos.
+¡Bienvenido al repositorio del speedrun del "Curso de Fundamentos de Python" de Platzi! Este conjunto de archivos representa un rápido recorrido por los conceptos fundamentales de Python, abarcando desde variables y tipos de datos hasta estructuras de control y manipulación de datos.
 
 ## Contenido del Repositorio
 
